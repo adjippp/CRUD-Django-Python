@@ -43,3 +43,4 @@ How to use this CRUD Project (Windows and using python 3.7.x)
 
     ![alt text](https://i.ibb.co/7GSQL27/delete.png)
     
+8. close the program using ctrl+c or ctrl+break
