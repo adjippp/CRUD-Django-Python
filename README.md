@@ -21,9 +21,9 @@ How to use this CRUD Project (Windows and using python 3.7.x)
     ![alt text](https://i.ibb.co/wLVBCv5/insert.png)
     
     
-    title : string/varchar (not null)
+    title : string/varchar (required)
     
-    author : string/varchar (not null)
+    author : string/varchar (required)
     
     date : using format mm/dd/yyyy or 01/15/2019
     
