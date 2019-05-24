@@ -2,7 +2,7 @@
 Creating CRUD about BOOK (Title, Author, Date, Pages, Type of Book) Web Based App using python and django framework (MVC).
 Views work as View and Controller.
 
-How to use this CRUD Project (Windows)
+How to use this CRUD Project (Windows and using python 3.7.x)
 
 1. Install django using 
     ```
