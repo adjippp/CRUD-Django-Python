@@ -20,6 +20,17 @@ How to use this CRUD Project (Windows and using python 3.7.x)
 
     ![alt text](https://i.ibb.co/wLVBCv5/insert.png)
     
+    
+    title : string/varchar (not null)
+    
+    author : string/varchar (not null)
+    
+    date : using format mm/dd/yyyy or 01/15/2019
+    
+    pages : integer/number more than 1
+    
+    type : dropdown list
+    
 5. You can edit by click edit icon
   
     ![alt text](https://i.ibb.co/gVKywrm/edit1.png)
