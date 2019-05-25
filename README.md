@@ -8,7 +8,7 @@ How to use this CRUD Project (Windows , python 3.7.x, visual studio code)
     ```
     pip install django
     ```
-2. Execute the manage.py using
+2. Execute the manage.py (running the server) using
     ```
     python manage.py runserver
     ```
